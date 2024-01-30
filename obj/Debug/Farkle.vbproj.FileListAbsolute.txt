@@ -1,0 +1,12 @@
+C:\Users\819520\source\repos\Farkle\Farkle\bin\Debug\Farkle.exe.config
+C:\Users\819520\source\repos\Farkle\Farkle\bin\Debug\Farkle.exe
+C:\Users\819520\source\repos\Farkle\Farkle\bin\Debug\Farkle.pdb
+C:\Users\819520\source\repos\Farkle\Farkle\bin\Debug\Farkle.xml
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.vbproj.AssemblyReference.cache
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.Form1.resources
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.Resources.resources
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.vbproj.GenerateResource.cache
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.vbproj.CoreCompileInputs.cache
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.exe
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.xml
+C:\Users\819520\source\repos\Farkle\Farkle\obj\Debug\Farkle.pdb
