@@ -1,0 +1,3 @@
+Code is in Visual Studio Windows, my code could be simplified eaisily but this is what I can do the best for now.
+It's a final project......
+Welcome to give comments on how to make this project better
